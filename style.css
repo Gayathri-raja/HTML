@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0,5)50%,rgba(0,0,0,0,5)50%,url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1453728013993-6d66e9c9123a%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGVuc3xlbnwwfHwwfHw%253D%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Flens&tbnid=n5hAWsQ-sgKo_M&vet=12ahUKEwigrYjq2d_6AhW8BbcAHWSQD7YQMygCegUIARCKAQ..i&docid=9PP2LeZYpO5BaM&w=1000&h=667&q=image&ved=2ahUKEwigrYjq2d_6AhW8BbcAHWSQD7YQMygCegUIARCKAQ));
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
